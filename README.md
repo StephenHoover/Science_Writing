@@ -14,6 +14,6 @@ The Machine Perception and Cognitive Robotics Laboratory at Center for Complex S
 Spring 2020
 
 # Bibliography/References
-  * **Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded 1st Edition**
+  * *Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded 1st Edition*
   * ISBN-13: 978-0199760244
   * ISBN-10: 0199760241
