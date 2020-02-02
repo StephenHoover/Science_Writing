@@ -1,0 +1,76 @@
+# 2.1 Analyze published papers
+## Prompt/Tasks
+### Identify the key story points.
+### Do the authors do a good job of highlighting the story?
+### How far along the flow from *data* to *understanding* did they go?
+### Could they have taken it further? 
+
+## A paper from a specialist journal written by a leader recgonized as a strong writer
+
+
+## A "normal" paper from a specialist journal
+
+
+## A review or synthesis paper
+  * 
+
+## A paper from Nature, Science, or some other journal that targets a broad audience
+  * 
+  
+
+# 2.2 Write a short article
+
+## Step One: Identify the Key Story Points for your Work.
+
+For each question, write a short paragraph — no more than two to three sentences. These
+identify the essential story elements.
+
+### 1. What is your opening? 
+  * This should identify the larger problem to which you are contributing, give readers a sense of the direction your paper is going, 
+    and make it clear why it is important. It should engage the widest audience practical.
+
+### 2. What is your specifi c question or hypothesis?
+
+### 3. What are the key results of your work? Identify these in a short list. 
+  * There should be no more than two to three points.
+
+### 4. What is your main conclusion? What did you learn about nature? 
+* This should use the results from section (3) to answer the question from (2), and
+should address the larger problem identified in (1).
+
+## Step Two: Write the Article
+
+Write a short article describing your research. Your target audience is scientists
+who are not specialists in your discipline. You are trying to tell the story of your
+work and engage and educate your readers, not write a technical paper. The tone
+can range between somewhat technical and more casual, but it must be something
+that technical readers would find interesting. Use your answers from step one to
+frame the story you write in this part of the exercise.
+
+The word limit is strict: 800–850 words.
+
+## Step three: Analyze your writing
+
+Circulate your articles among your writers' group (a group of three to four people
+seems ideal for this). Analyze and edit each other’s work. Th en discuss the articles.
+Ask and answer the following questions:
+
+### 1. What did the author do well? (It’s always good to start positive.)
+
+### 2. Was the topic interesting? 
+* Was it cast at the right level and hit the right audience? 
+* Could you have rewritten it to engage a wider audience? 
+* Did it make you want to read the rest of the piece?
+
+### 3. Was the specific question clear?
+
+### 4. Were the results clear? Did they relate to the topic and the specific
+question?
+
+### 5. Were the Conclusions true conclusions, or were they merely a restatement of the results? 
+* Did they relate to the large issues raised in the opening?
+* Did they answer the specific question asked? Did they clearly grow from the results presented in the piece?
+
+### 6. What did you get as the "take-home" message of the story? Do you believe that this was the message the author was trying to give you?
+
+### 7. Was the writing clear? If not, can you figure out why and identify ways to make it clearer?
