@@ -1,5 +1,5 @@
 # Who
-Stephen H. Hoover and Rachel A. St. Clair
+Stephen H. Hoover and Rachel A. St.Clair
 
 # What
 Scientific Writing
